@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include "pal.h"
 #include "useful.h"
-//BY DAN COLEMAN R00151926
-
 /**
 *display state: Shows your current location in the game, along with each number allowing you to see a 
 *visualisation of the palindrome

@@ -1,8 +1,6 @@
 #ifndef PAL_H_INCLUDED
 #define PAL_H_INCLUDED
 #include "useful.h"
-//BY DAN COLEMAN R00151926
-
 //A header file is a file with extension .h which contains C function declarations
 //and macro definitions to be shared between several source files.
 

@@ -8,6 +8,7 @@ typedef enum Bool boolean;
 //--------------------------------------------------
 char my_get_char() {
 	//1. We create the output variable with the value the user has input by keyboard
+	//char res = ' ';
 	char res = getchar();
 
 	//2. We discard any extra character the user has input by keyboard
